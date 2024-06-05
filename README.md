@@ -1,6 +1,6 @@
 # EconoCity-Pereira Project
 
-### Ideas / problems:
+### problems:
 
 - Issues Regarding Economic Growth in the City of Pereira
 
@@ -8,7 +8,7 @@
  
  - [TerriData-análisis financiero](https://terridata.dnp.gov.co/index-app.html#/descargas "TerriData-análisis financiero")
  
-### Data cleaning / Limpieza de datos
+### Data cleaning
 
 - Code Used for Data Cleaning in Python (Pandas) can be found in the file "Cleaning.ipynb".
 
@@ -78,6 +78,6 @@ Gender analysis
 
 ### Recomentations 
 
-I would suggest investing in Pereira due to its significant economic growth. The city has experienced an increase in population and employment, which indicates a positive outlook.
+I would suggest investing in Pereira due to its significant economic growth. The city has experienced an increase in population and employment, which indicates a positive forecast.
 
  
